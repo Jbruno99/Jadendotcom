@@ -1,6 +1,3 @@
-body{background: rgb(255,158,231);
-background: -moz-radial-gradient(circle, rgba(255,158,231,1) 0%, rgba(0,0,0,1) 64%);
-background: -webkit-radial-gradient(circle, rgba(255,158,231,1) 0%, rgba(0,0,0,1) 64%);
-background: radial-gradient(circle, rgba(255,158,231,1) 0%, rgba(0,0,0,1) 64%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff9ee7",endColorstr="#000000",GradientType=1);
-h1 {color: aliceblue;}
+body{: rgb(255,158,231);
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 64%);
